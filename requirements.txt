@@ -1,0 +1,5 @@
+phonenumbers==8.13.22
+requests==2.31.0
+googlesearch-python==1.2.3
+rich==13.7.0
+pyfiglet==1.0.2
